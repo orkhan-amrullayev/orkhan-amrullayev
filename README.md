@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <img src="assets/header-light.svg" alt="Orkhan Amrullayev, AI Engineer and Architect, Warsaw" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://aibyos.com/profile/header-dark.svg" />
+  <img src="https://aibyos.com/profile/header-light.svg" alt="Orkhan Amrullayev, AI Engineer and Architect, Warsaw" width="100%" />
 </picture>
 
 <br />
@@ -29,8 +29,8 @@ I design and build production AI systems end to end: LLM applications, agents, r
 ### Technology
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img src="assets/stack-light.svg" width="100%" alt="Technology stack. Infrastructure: AWS, Microsoft Azure, Google Cloud, Oracle Cloud, RunPod, Lambda, CoreWeave, Modal, Together AI, NVIDIA, Cloudflare, Vercel, Railway, Fly.io, Hetzner, OVHcloud, Scaleway, Kubernetes, Terraform, Docker, GitHub Actions. AI and ML: Anthropic, OpenAI, Google Gemini, Mistral AI, Meta Llama, PyTorch, Hugging Face, vLLM, SGLang, TensorRT-LLM, Ollama, LangGraph, LangChain, LlamaIndex, Pydantic AI, MCP, MLflow, Weights and Biases, Ray, Langfuse. Data platforms: Databricks, Snowflake, Microsoft Fabric, BigQuery. Backend: Python, FastAPI, TypeScript, Node.js, PostgreSQL, pgvector, Redis, Apache Kafka, Temporal, Qdrant, Weaviate. Frontend: React, Next.js, Tailwind CSS, Vite. Connectors and integrations: Microsoft 365, SharePoint, Google Workspace, Slack, Notion, Salesforce, SAP, ServiceNow, HubSpot, Zendesk, Jira, Confluence, GitHub, GitLab." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://aibyos.com/profile/stack-dark.svg" />
+  <img src="https://aibyos.com/profile/stack-light.svg" width="100%" alt="Technology stack. Infrastructure: AWS, Microsoft Azure, Google Cloud, Oracle Cloud, RunPod, Lambda, CoreWeave, Modal, Together AI, NVIDIA, Cloudflare, Vercel, Railway, Fly.io, Hetzner, OVHcloud, Scaleway, Kubernetes, Terraform, Docker, GitHub Actions. AI and ML: Anthropic, OpenAI, Google Gemini, Mistral AI, Meta Llama, PyTorch, Hugging Face, vLLM, SGLang, TensorRT-LLM, Ollama, LangGraph, LangChain, LlamaIndex, Pydantic AI, MCP, MLflow, Weights and Biases, Ray, Langfuse. Data platforms: Databricks, Snowflake, Microsoft Fabric, BigQuery. Backend: Python, FastAPI, TypeScript, Node.js, PostgreSQL, pgvector, Redis, Apache Kafka, Temporal, Qdrant, Weaviate. Frontend: React, Next.js, Tailwind CSS, Vite. Connectors and integrations: Microsoft 365, SharePoint, Google Workspace, Slack, Notion, Salesforce, SAP, ServiceNow, HubSpot, Zendesk, Jira, Confluence, GitHub, GitLab." />
 </picture>
 
 <sub>Most client work is under NDA and lives in private repositories.</sub>
